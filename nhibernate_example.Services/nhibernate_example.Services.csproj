@@ -66,7 +66,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\nh_mappings\nhibernate_example.Common.csproj">
+    <ProjectReference Include="..\nhibernate_example.Common\nhibernate_example.Common.csproj">
       <Project>{852a4e49-6981-40f5-b770-069d4466a5be}</Project>
       <Name>nhibernate_example.Common</Name>
     </ProjectReference>

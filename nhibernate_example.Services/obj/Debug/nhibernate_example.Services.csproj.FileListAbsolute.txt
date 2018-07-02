@@ -17,3 +17,4 @@ k:\projects\empower\nhibernate_example\nhibernate_example.Services\bin\Debug\Rem
 k:\projects\empower\nhibernate_example\nhibernate_example.Services\obj\Debug\nhibernate_example.Services.csprojResolveAssemblyReference.cache
 k:\projects\empower\nhibernate_example\nhibernate_example.Services\obj\Debug\nhibernate_example.Services.dll
 k:\projects\empower\nhibernate_example\nhibernate_example.Services\obj\Debug\nhibernate_example.Services.pdb
+K:\Projects\empower\nhibernate_example\nhibernate_example.Services\obj\Debug\nhibernate_example.Services.csproj.CoreCompileInputs.cache

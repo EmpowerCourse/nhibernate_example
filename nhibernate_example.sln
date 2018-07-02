@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate_example", "nhibernate_example.csproj", "{BBBD8273-CE7A-4AB3-B929-7BF389861F58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate_example", "nhibernate_example\nhibernate_example.csproj", "{BBBD8273-CE7A-4AB3-B929-7BF389861F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate_example.Common", "nh_mappings\nhibernate_example.Common.csproj", "{852A4E49-6981-40F5-B770-069D4466A5BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate_example.Common", "nhibernate_example.Common\nhibernate_example.Common.csproj", "{852A4E49-6981-40F5-B770-069D4466A5BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate_example.Services", "nhibernate_example.Services\nhibernate_example.Services.csproj", "{D69125D1-88D6-4676-A710-9AE265BA2ABB}"
 EndProject
