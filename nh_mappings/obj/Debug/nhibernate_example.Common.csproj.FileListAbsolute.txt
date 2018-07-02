@@ -1,0 +1,17 @@
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\nhibernate_example.Common.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\nhibernate_example.Common.pdb
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Antlr3.Runtime.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\FluentNHibernate.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Iesi.Collections.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\NHibernate.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Remotion.Linq.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Remotion.Linq.EagerFetching.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Antlr3.Runtime.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\FluentNHibernate.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Iesi.Collections.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\NHibernate.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Remotion.Linq.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\bin\Debug\Remotion.Linq.EagerFetching.xml
+K:\Projects\empower\nhibernate_example\nh_mappings\obj\Debug\nhibernate_example.Common.csprojResolveAssemblyReference.cache
+K:\Projects\empower\nhibernate_example\nh_mappings\obj\Debug\nhibernate_example.Common.dll
+K:\Projects\empower\nhibernate_example\nh_mappings\obj\Debug\nhibernate_example.Common.pdb
